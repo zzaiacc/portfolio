@@ -56,7 +56,7 @@ const Experience = () => {
               <AiFillCheckCircle className='experience__details-icon' />
               <div>
                 <h4> React </h4>
-                <small className=''> Experiente </small>
+                <small className=''> Básico </small>
               </div>
             </article>
 
