@@ -73,16 +73,16 @@ const Services = () => {
               <SlRocket className="service__list-icon" />
               <p> Integração de APIs</p>
             </li>
-            <li>
+            {/* <li>
               <SlRocket className="service__list-icon" />
               <p> Bancos de Dados e SQL </p>
-            </li>
+            </li> */}
           </ul>
         </article>
 
         {/* FIM DO DESENVOLVIMENTO WEB*/}
 
-        <article className="service">
+        {/* <article className="service">
           <div className="service__head">
             <h3> Ainda não sei o que colocar aqui </h3>
           </div>
@@ -137,7 +137,7 @@ const Services = () => {
               </p>
             </li>
           </ul>
-        </article>
+        </article> */}
 
         {/* FIM DE CRIAÇÃO DE CONTEUDO */}
       </div>

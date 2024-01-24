@@ -29,7 +29,7 @@ const About = () => {
             <article className="about__card">
               <HiOutlineUsers className="about__icon" />
               <h5> Clientes </h5>
-              <small> 0 mil clientes </small>
+              <small> 3 clientes </small>
             </article>
 
             <article className="about__card">
@@ -40,7 +40,11 @@ const About = () => {
           </div>
 
           <p>
-            Olá, Mundo! Como já viram logo acima, meu nome é Kauan, muito prazer em me conhecer! Sou apaixonado por cinema e jogos (sei que você também é). Tenho um objetivo desde pequeno, criar um jogo realmente bom, bom mesmo, mas até lá estou na busca de conhecimento em diversas áreas da programação, aprendendo sempre algo novo, muito obrigado pela atenção, um beijo e se cuida!
+            Olá, Mundo! Como já viram logo acima, meu nome é Kauan, é um prazer
+            ter você aqui! Sou apaixonado muito por cinema, jogos e codar. Desde
+            pequeno tenho uma fascinação em criar coisas, desde jogos para uma
+            diversão entre amigos, ou criar até mesmo soluções simples porém
+            criativas para problemas do cotidiano.
           </p>
 
           <a href="#contact" className="btn btn-primary">
